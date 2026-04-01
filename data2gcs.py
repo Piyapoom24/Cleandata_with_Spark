@@ -8,7 +8,7 @@ import pandas as pd
 load_dotenv()
 
 client = storage.Client()
-bucket = client.bucket('raw-data02')
+bucket = client.bucket(os.getenv('GCS_BUCKET'))
 folder = 'shopping-mall'
 
 engine = create_engine(
