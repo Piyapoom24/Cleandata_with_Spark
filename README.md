@@ -80,4 +80,3 @@ Final table contains joined data from all 3 sources:
 - Building an end-to-end batch data pipeline on GCP
 - Using PySpark for large-scale data transformation
 - Managing GCS bucket structure (raw / clean / processed zones)
-- Managing credentials securely with `.env`
