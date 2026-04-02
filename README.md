@@ -17,7 +17,7 @@ A batch data pipeline that ingests transactional data from MySQL, transforms it 
 
 ## 🔄 Workflow
 
-> <img width="1683" height="455" alt="image" src="https://github.com/user-attachments/assets/1ed90a3d-9d16-45b6-b465-6af8aab7d777" />
+> <img width="1750" height="398" alt="image" src="https://github.com/user-attachments/assets/b7a24d3d-46d4-4122-b8b5-955f58ee6fc5" />
 
 
 | Step | Description | Tools |
